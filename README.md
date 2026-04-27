@@ -223,8 +223,7 @@ Check that `telegram_queue_bridge.py` is running and that `telegram_settings.jso
 
 **If any of this turns out to be useful for you - I'm glad.  
 And if you feel like supporting it:  
-1-2 coffees are more than enough.**
+☕ 1-2 coffees are more than enough ☺️**
 
 [Click to Buy me a Coffee](https://buymeacoffee.com/natlrazfx)
-
 [Subscribe me on Substack](https://substack.com/@natalia289425)
