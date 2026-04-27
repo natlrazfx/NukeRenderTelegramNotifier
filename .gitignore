@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.tmp
+*.log
+
+telegram_settings.json
+queue/
+*.lock
+
+.DS_Store

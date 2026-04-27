@@ -1,0 +1,17 @@
+{
+  "enabled": true,
+  "bot_token": "PASTE_YOUR_TELEGRAM_BOT_TOKEN_HERE",
+  "chat_id": "PASTE_YOUR_CHAT_ID_HERE",
+  "note": "You can also use TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID environment variables.",
+  "api_base": "https://api.telegram.org",
+  "timeout_seconds": 10,
+  "parse_mode": "HTML",
+  "disable_web_page_preview": true,
+  "verify_ssl": true,
+  "delivery_mode": "auto",
+  "queue_dir": "",
+  "auto_start_bridge": true,
+  "bridge_python": "",
+  "notify_on_render_complete": true,
+  "test_message_prefix": "Nuke Telegram notifier test"
+}
